@@ -1,0 +1,33 @@
+body {
+    margin: 20px;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.avatar {
+    height: 180px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #FFE6A7;
+    color: #432818;
+    border-bottom: 8px solid #99582A;
+    border-right: 8px solid #BB9457;
+  
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
+/*
+Final challenge:
+Download the code to your local computer and place it
+in a folder called "business-card"
+*/
